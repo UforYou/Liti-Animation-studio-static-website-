@@ -21,7 +21,7 @@ The static website serves as an online portfolio for LITI Animation Studio, show
 
 ## Usage
 To view the website locally:
-1. Download The File From the following Link: [Downloae]
+1. Download The File From the following Link: [Download]
 
 ## Developer
 This website was developed with ❤ by [Developer Anand](https://github.com/DEV-ANAND369).
